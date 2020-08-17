@@ -21,7 +21,7 @@ Step2. To calculate and select:
                     
                 (ii) the Top 3 companies have high revenue growth rate in each above industries.  
                 
-                    --> the revenue growth rate mean: the Annual growth rate of consolidated revenue in the last three months.  
+                    --> the revenue growth rate mean: the Annual growth rate(YoY) of consolidated revenue in the last three months.  
 
 
 
